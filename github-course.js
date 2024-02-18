@@ -1,2 +1,2 @@
-console.log('How  much');
-console.log('$10');
+console.log('How many');
+console.log('20');
