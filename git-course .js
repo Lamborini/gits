@@ -1,2 +1,2 @@
-console.log('What are you doing');
-console.log('Am writing codes');
+console.log('Who are you ');
+console.log('Codes');
